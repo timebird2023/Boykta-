@@ -9,7 +9,7 @@ from datetime import datetime
 # ⚙️ إعدادات البوت والتحقق السري
 # ---------------------------
 # قم بتعيين PAGE_ACCESS_TOKEN كمتغير بيئة في Vercel
-PAGE_ACCESS_TOKEN = os.environ.get("EAAWWAEaEh1EBPyUousIH0C1cZARH4HBGX0metgdiw6JCgneJq5mZAk4qK3vz0Pz9LdWZAVi1zxOY3ZCbhP2ZBJPtrrYMyzzeusY92ZCmeA8lYff3SWLFLY5wI7CINZAvnn4zidl8n0h9RUWRDwBhc8ZAzJisDwYSpDny1c6HZAuWAZCWI3tkcMvWpGJmlZANUko0krZB8i5rWgZDZD")
+PAGE_ACCESS_TOKEN = os.environ.get("PAGE_ACCESS_TOKEN")
 # الكود السري الخاص بك للتحقق من الويب هوك في فيسبوك
 VERIFY_TOKEN = "boykta2026" 
 
